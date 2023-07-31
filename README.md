@@ -1,9 +1,8 @@
 # :lipstick: Caixa Eletrônico da Barbie :lipstick:
-Este é um projeto de um Caixa Eletrônico da Barbie criado com Python. O programa permite realizar operações como ver o saldo da conta, sacar dinheiro, fazer depósito, 
-pagar contas e desbloquear o celular.
+#### Este é um projeto de um Caixa Eletrônico da Barbie criado com Python. O programa permite realizar operações como ver o saldo da conta, sacar dinheiro, fazer depósito, pagar contas e desbloquear o celular.
 
 # :lipstick: Funcionalidades :lipstick:
-O Caixa Eletrônico da Barbie possui as seguintes funcionalidades:
+#### O Caixa Eletrônico da Barbie possui as seguintes funcionalidades:
 
 #### :lipstick: Ver saldo da conta: exibe o saldo atual disponível na conta.
 #### :lipstick: Sacar dinheiro: permite ao usuário informar o valor desejado para saque e atualiza o saldo da conta.
